@@ -1,4 +1,4 @@
-![EXP1 2](https://github.com/user-attachments/assets/f8f45c1d-40f8-4a41-9bfe-211bc6e49345)### study-of-basic-gates
+### study-of-basic-gates
 
 **AIM:** 
 
@@ -82,15 +82,18 @@ endmodule
  Developed by :Sridharan B RegisterNumber: 25016127 
  
 **Logic symbol & Truthtable**
+
 ![EXP1 3](https://github.com/user-attachments/assets/1ea585d3-8e8f-4978-bbe0-18236f8f2fc1)
 
 
 
 **RTL realization Output:** 
+
 ![EXP1 1](https://github.com/user-attachments/assets/6e3f401c-f7ad-4ab3-84fd-4309fb88edda)
 
 
 **RTL**
+
 ![EXP1 2](https://github.com/user-attachments/assets/7f3ad4c2-6c6e-4c8c-b83c-40ba56077822)
 
 
